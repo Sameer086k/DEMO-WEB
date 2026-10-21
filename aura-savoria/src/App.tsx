@@ -849,8 +849,8 @@ export default function App() {
                   className="w-full h-full filter invert-[92%] hue-rotate-180 contrast-[1.15] brightness-[0.8] opacity-80"
                   frameBorder="0"
                   scrolling="no"
-                  marginHeight="0"
-                  marginWidth="0"
+                  marginHeight={0}
+                  marginWidth={0}
                   src="https://maps.google.com/maps?q=Pier+24+Hudson+River+Park+New+York&t=&z=15&ie=UTF8&iwloc=&output=embed"
                 />
                 
